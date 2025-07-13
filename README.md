@@ -8,8 +8,6 @@ The data for this can be found [here](https://www.kaggle.com/datasets/sovitrath/
 
 ![Example from the Mask RCNN ](images/good_example.png)
 
-![Example from the Mask RCNN ](images/res_1.png)
-
 ![Example from the Mask RCNN ](images/res_2.png)
 
 ![Example from the Mask RCNN ](images/res_3.png)
